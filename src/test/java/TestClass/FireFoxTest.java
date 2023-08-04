@@ -16,6 +16,7 @@ public class FireFoxTest
 		Thread.sleep(2000);
 		driver.quit();
 		System.out.println("updated code");
+		System.out.println("added new line");
 	}
 
 }
